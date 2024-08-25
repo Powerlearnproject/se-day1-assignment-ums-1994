@@ -17,12 +17,25 @@ Machine Learning and AI Integration- The integration of machine learning and AI 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Requirements-Gathering and documenting user needs and system requirements.
+Design- Creating high-level and detailed designs of the Software architecture and user interface.
+Implementation- Writing code and building the software according to the design specifications.
+Testing- Conducting various tests to ensure the software meets quality standards and functional requirements.
+Deployment- Releasing the software to users or customers.
+Maintenance- Providing ongoing support, updates,and enhancements to the software after deployment.
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall is best suited for projects with clear, stable requirements and where thorough documentation and planning are crucial. e.g. Developing a payroll system for a company with strict regulations where requirements are well-defined and unlikely to change. The structured approach ensures compliance and thorough documentation.
+Agile is preferable for projects where adaptability, ongoing user feedback, and iterative development are key to delivering value and meeting evolving needs. e.g. Developing a new e-commerce platform where user preferences and market conditions are expected to evolve. Agile allows for iterative development, regular user feedback, and adjustments based on real-world use.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Software Developer- Responsible for writing code and implementing software solutions. 
+Quality Assurance Engineer- Ensures software quality by designing and executing test plan.
+Project Manager- Oversees the planning, execution and delivery of software projects.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
