@@ -105,6 +105,7 @@ Prompt engineering is important when interacting with AI models because it helps
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague prompt- "Give me information in AI"
+
 Improved prompt- "Can you explain the latest advancements in artificial intelligence?"
 
 This prompt is clearer and more focused, helping the AI provide a precise and relevant answer about AI.
